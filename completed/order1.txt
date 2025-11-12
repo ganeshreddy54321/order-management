@@ -1,0 +1,4 @@
+echo "order1: laptop">> order1.txt
+echo "order1: phone">> order1.txt
+echo "order1: laptop">> order1.txt
+echo "order1: laptop">> order1.txt
